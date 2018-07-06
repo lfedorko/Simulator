@@ -1,5 +1,4 @@
 package com.transport;
-import com.transport.
 
 public class Helicopter extends Aircraft implements Flyable {
 

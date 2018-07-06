@@ -6,9 +6,9 @@ public class WeatherProvider {
 
     private WeatherProvider(){}
 
-    public WeatherProvider getProvider(){
-
-    }
+//    public WeatherProvider getProvider(){
+//        return this.weathe
+//    }
     public String getCurrentWeather(Coordinates coordinates) {
         return "SUN";
     }
