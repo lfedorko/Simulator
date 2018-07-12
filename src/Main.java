@@ -8,7 +8,7 @@ public class Main {
             System.out.println("Invalid number of arguments!");
         else {
             CoordFile f = new CoordFile(args[0]);
-            f.RecordScenario();
+            f.CreateTransport();
             System.out.println("Pamagite");
         }
     }

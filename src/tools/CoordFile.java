@@ -14,9 +14,10 @@ public class CoordFile {
     }
 
 
-    public String RecordScenario() {
+    public void CreateTransport() {
         String line = null;
         int num = 0;
+        Validator v = new Validator();
 
         BufferedReader br = null;
         try {
@@ -38,13 +39,14 @@ public class CoordFile {
             System.out.println("Invalid number of times the simulation is run.");
             exit(0);
         }
-
-
-//        while ((sCurrentLine = br.readLine()) != null)
-//        {
-//            contentBuilder.append(sCurrentLine).append("\n");
-//        }
-        return(null);
+        try {
+            while ((line = br.readLine()) != null)
+                v.parseString(line);
+        } catch (IOException e) {
+            e.printStackTrace();
+        } catch (ValidException e) {
+            e.printStackTrace();
+        }
     }
 
     public void ReturnSimulationFile() throws IOException {
