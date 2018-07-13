@@ -7,7 +7,7 @@ public class Validator {
 
     private String line;
 
-    public void parseString(String str) throws ValidException {
+    public String[] parseString(String str) throws ValidException {
         String[] result = str.split("\\s");
 
         if (result.length != 5)
@@ -17,6 +17,7 @@ public class Validator {
         checkLO(Integer.parseInt(result[2]), result[0], result[1]);
         checkLA(Integer.parseInt(result[3]), result[0], result[1]);
         checkHE(Integer.parseInt(result[4]), result[0], result[1]);
+        return result;
     }
 
     private void checkName(String name) {
