@@ -1,8 +1,13 @@
-package com.transport;
+package weather;
+
+import com.transport.Flyable;
 
 import java.util.ArrayList;
 
-public class WeatherTower extends Tower{
+/**
+ * Created by lizavieta on 06.07.2018.
+ */
+public class Tower {
 
     public ArrayList<Flyable> observers = new ArrayList<Flyable>();
 
@@ -13,8 +18,7 @@ public class WeatherTower extends Tower{
 
     }
 
-    protected void ConditionsChanged(){
+    protected void conditionsChanged(){
 
     }
-
 }

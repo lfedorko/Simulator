@@ -1,9 +1,8 @@
 import com.transport.AircraftFactory;
 import com.transport.Flyable;
-import com.transport.WeatherTower;
-import tools.CoordFile;
 import tools.ValidException;
 import tools.Validator;
+import weather.WeatherTower;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
@@ -51,6 +50,7 @@ public class Simulator {
             exit(0);
         }
         try {
+
             while ((line = br.readLine()) != null) {
                 result = v.parseString(line);
                 Flyable flyable = AircraftFactory.newAircraft(result[0], result[1], Integer.parseInt(result[2]), Integer.parseInt(result[3]), Integer.parseInt(result[4]));
