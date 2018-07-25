@@ -5,10 +5,11 @@ public class OutFile {
 
     private static FileWriter fw = null;
 
+    public static void openWriter() throws IOException {
+        fw = new FileWriter("simulation.txt");
+    }
+
     public static void writeToFile(String msg) throws IOException{
-        if(fw == null)
-            fw = new FileWriter("simulation.txt");
-        else
             fw.write(msg);
     }
 

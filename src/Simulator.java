@@ -1,5 +1,6 @@
 import com.transport.AircraftFactory;
 import com.transport.Flyable;
+import tools.OutFile;
 import tools.ValidException;
 import tools.Validator;
 import weather.WeatherTower;
@@ -50,7 +51,7 @@ public class Simulator {
             exit(0);
         }
         try {
-
+            OutFile.openWriter();
             while ((line = br.readLine()) != null) {
                 result = v.parseString(line);
                 Flyable flyable = AircraftFactory.newAircraft(result[0], result[1], Integer.parseInt(result[2]), Integer.parseInt(result[3]), Integer.parseInt(result[4]));

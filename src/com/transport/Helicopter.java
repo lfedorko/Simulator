@@ -1,5 +1,7 @@
 package com.transport;
 import tools.OutFile;
+import weather.WeatherTower;
+
 import java.io.IOException;
 
 public class Helicopter extends Aircraft implements Flyable {
@@ -46,7 +48,7 @@ public class Helicopter extends Aircraft implements Flyable {
         }
 	 }
 
-    public void registerTower(WeatherTower weatherTower){
+    public void registerTower(WeatherTower weatherTower) throws IOException {
         this.weatherTower = weatherTower;
         this.weatherTower.register(this);
         OutFile.writeToFile("weather.Tower says: Helicopter#" + this.name + "(" + this.id + ") registered to weather tower.");

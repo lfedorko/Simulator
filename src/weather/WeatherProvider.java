@@ -8,8 +8,8 @@ public class WeatherProvider {
 
     private WeatherProvider(){}
 
-    public WeatherProvider getProvider(){
-        return this.weatherProvider;
+    public static WeatherProvider getProvider(){
+        return weatherProvider;
     }
 
     public String getCurrentWeather(Coordinates coordinates) {
