@@ -22,7 +22,7 @@ public class Helicopter extends Aircraft implements Flyable {
                 this.coordinates = new Coordinates(coordinates.getLongitude() + 5, coordinates.getLatitude(),coordinates.getHeight());
                 break;
             case "FOG":
-                OutFile.writeToFile("Helicopter#"+ this.name + "(" + this.id + "):"+ "Ooops! Foggy day. Inside the fogs, see attentively! \n" );
+                OutFile.writeToFile("Helicopter#"+ this.name + "(" + this.id + "):"+ "It is dangerous to fly in this heavy fog." );
                 this.coordinates = new Coordinates(coordinates.getLongitude() + 1, coordinates.getLatitude(),coordinates.getHeight());
                 break;
             case "SUN":
@@ -40,7 +40,7 @@ public class Helicopter extends Aircraft implements Flyable {
                 {
                     OutFile.writeToFile("Helicopter#" + this.name + "(" + this.id + ") landing.");
                     this.weatherTower.unregister(this);
-                    OutFile.writeToFile("weather.Tower says: Helicopter#" + this.name + "(" + this.id + ") unregistered from weather tower");
+                    OutFile.writeToFile("Tower says: Helicopter#" + this.name + "(" + this.id + ") unregistered from weather tower");
                 }
                 break;
             default:
@@ -51,6 +51,6 @@ public class Helicopter extends Aircraft implements Flyable {
     public void registerTower(WeatherTower weatherTower) throws IOException {
         this.weatherTower = weatherTower;
         this.weatherTower.register(this);
-        OutFile.writeToFile("weather.Tower says: Helicopter#" + this.name + "(" + this.id + ") registered to weather tower.");
+        OutFile.writeToFile("Tower says: Helicopter#" + this.name + "(" + this.id + ") registered to weather tower.");
     }
 }

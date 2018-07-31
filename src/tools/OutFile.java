@@ -10,7 +10,7 @@ public class OutFile {
     }
 
     public static void writeToFile(String msg) throws IOException{
-            fw.write(msg);
+            fw.write(msg +'\n');
     }
 
     public static void closeWriter() throws IOException {

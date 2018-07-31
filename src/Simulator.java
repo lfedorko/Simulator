@@ -20,11 +20,11 @@ public class Simulator {
         if (args.length > 1)
             System.out.println("Invalid number of arguments!");
         else {
-            CreateTransport(args[0]);
+            RunSimulator(args[0]);
         }
     }
 
-    public static void CreateTransport(String NameOfFile) {
+    public static void RunSimulator(String NameOfFile) throws IOException {
         String line = null;
         int num = 0;
         Validator v = new Validator();
@@ -40,7 +40,7 @@ public class Simulator {
         } catch (IOException e) {
             e.printStackTrace();
         }
-        try{
+        try {
             num = Integer.parseInt(line);
         } catch (NumberFormatException e) {
             System.out.println("Invalid number of times the simulation is run.");
@@ -57,12 +57,17 @@ public class Simulator {
                 Flyable flyable = AircraftFactory.newAircraft(result[0], result[1], Integer.parseInt(result[2]), Integer.parseInt(result[3]), Integer.parseInt(result[4]));
                 flyable.registerTower(wt);
             }
-        } catch (IOException e) {
+      } catch (IOException e) {
             e.printStackTrace();
         } catch (ValidException e) {
             e.printStackTrace();
-        }
-    }
 
+        }
+        for (int i=0; i < num; i++)
+        {
+            wt.changeWeather();
+        }
+        OutFile.closeWriter();
+    }
 }
 
