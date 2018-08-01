@@ -1,16 +1,13 @@
 package weather;
 
 import com.transport.Flyable;
-
 import java.io.IOException;
 import java.util.ArrayList;
 
-/**
- * Created by lizavieta on 06.07.2018.
- */
+
 public class Tower {
 
-    public ArrayList<Flyable> observers = new ArrayList<Flyable>();
+    private ArrayList<Flyable> observers = new ArrayList<Flyable>();
 
     public void register(Flyable flyable) {
         if (!this.observers.contains(flyable)){

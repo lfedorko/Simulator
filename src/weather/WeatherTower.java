@@ -13,7 +13,7 @@ public class WeatherTower extends Tower {
         return (WeatherProvider.getProvider().getCurrentWeather(coordinates));
     }
 
-     public void changeWeather() throws IOException {
+    private void changeWeather() throws IOException {
         this.conditionsChanged();
     }
 }
