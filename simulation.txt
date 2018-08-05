@@ -1,0 +1,195 @@
+Tower says: Baloon#B1(1) registered to weather tower.
+Tower says: Baloon#B2(2) registered to weather tower.
+Tower says: JetPlane#J1(3) registered to weather tower.
+Tower says: Helicopter#H1(4) registered to weather tower.
+Tower says: Helicopter#H2(5) registered to weather tower.
+Tower says: Helicopter#H3(6) registered to weather tower.
+Tower says: Baloon#B3(7) registered to weather tower.
+Tower says: JetPlane#J2(8) registered to weather tower.
+Tower says: Helicopter#H4(9) registered to weather tower.
+Baloon#B1(1):Fog? Shut up and tell us where we're going.
+Baloon#B2(2):Snow and baloon? We all die.
+JetPlane#J1(3): I'll build a snowman!!!.
+Helicopter#H1(4): Let it snow, let it snow, let it snow!
+Helicopter#H2(5): Let it snow, let it snow, let it snow!
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+Baloon#B3(7):Perfect weather!
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): It's a rainy day... 
+Baloon#B1(1):Perfect weather!
+Baloon#B2(2):Fog? Shut up and tell us where we're going.
+JetPlane#J1(3): Fog is the worst weather for flying!
+Helicopter#H1(4): It's a rainy day... 
+Helicopter#H2(5): It's a rainy day... 
+Helicopter#H3(6): Where are my sunglasses?
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9):It is dangerous to fly in this heavy fog.
+Baloon#B1(1):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B2(2):Perfect weather!
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4):It is dangerous to fly in this heavy fog.
+Helicopter#H2(5):It is dangerous to fly in this heavy fog.
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B1(1):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B1(1):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B1(1):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B1(1):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B1(1) landing.
+Tower says: Baloon#B1(1) unregistered from weather tower
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+Baloon#B3(7):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B3(7) landing.
+Tower says: Baloon#B3(7) unregistered from weather tower
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+Baloon#B2(2):Rainy days should be spent at home with a cup of tea, not on ballon
+Baloon#B2(2) landing.
+Tower says: Baloon#B2(2) unregistered from weather tower
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+JetPlane#J2(8): Wow! I caught a rainbow. 
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+JetPlane#J2(8): Fog is the worst weather for flying!
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+JetPlane#J2(8): Wow! I caught a rainbow. 
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+JetPlane#J2(8): Fog is the worst weather for flying!
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+JetPlane#J2(8): Wow! I caught a rainbow. 
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+JetPlane#J2(8): Fog is the worst weather for flying!
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): It's a rainy day... 
+JetPlane#J2(8): Wow! I caught a rainbow. 
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6):It is dangerous to fly in this heavy fog.
+JetPlane#J2(8): Fog is the worst weather for flying!
+Helicopter#H4(9): Where are my sunglasses?
+JetPlane#J1(3): How's for a little sun on the beach?
+Helicopter#H1(4): Where are my sunglasses?
+Helicopter#H2(5): Where are my sunglasses?
+Helicopter#H3(6): Where are my sunglasses?
+JetPlane#J2(8): How's for a little sun on the beach?
+Helicopter#H4(9): Where are my sunglasses?

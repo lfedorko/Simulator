@@ -1,6 +1,6 @@
 package weather;
 
-import com.transport.Coordinates;
+import vehicles.Coordinates;
 
 public class WeatherProvider {
     private static WeatherProvider weatherProvider = new WeatherProvider();
@@ -13,7 +13,7 @@ public class WeatherProvider {
     }
 
     public String getCurrentWeather(Coordinates coordinates) {
-        return weather[(coordinates.getHeight() + coordinates.getLatitude())% 4 ];
+        return weather[(coordinates.getHeight() + coordinates.getLatitude() + coordinates.getLongitude()) % 4 ];
     }
 
 

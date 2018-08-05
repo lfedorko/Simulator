@@ -5,7 +5,8 @@ public class OutFile {
 
     private static FileWriter fw = null;
 
-    public static void openWriter() throws IOException {
+    public static void getWriter() throws IOException {
+        if (fw == null)
         fw = new FileWriter("simulation.txt");
     }
 
