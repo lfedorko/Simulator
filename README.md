@@ -12,5 +12,5 @@ sh run.sh
 
 ## Task
 
-[Subject](https://github.com/lfedorko/Simulator/blob/master/avaj-launcher.en.pdf)
+[Subject](https://github.com/lfedorko/Simulator/blob/master/avaj-launcher.en.pdf) |
 [UML diagram](https://github.com/lfedorko/Simulator/blob/master/avaj_uml%202.jpg)
